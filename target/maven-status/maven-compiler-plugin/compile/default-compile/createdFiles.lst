@@ -1,0 +1,10 @@
+br/com/esig/service/TarefaService.class
+br/com/esig/util/NegocioException.class
+br/com/esig/sgt/model/Pessoa.class
+br/com/esig/util/Message.class
+br/com/esig/sgt/controller/TarefaMB.class
+br/com/esig/sgt/controller/PessoaMB.class
+br/com/esig/sgt/model/base.class
+br/com/esig/dao/DAO.class
+br/com/esig/dao/ConectionFactory.class
+br/com/esig/sgt/model/Tarefa.class
